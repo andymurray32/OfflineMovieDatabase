@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/Movie.h
+cstdlib
+-
+string
+-
+fstream
+-
+iostream
+-
+iomanip
+-
+algorithm
+-
+vector
+-
+sstream
+-
+MovieLink.h
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/MovieLink.h
+
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/MovieDatabase.cpp
+MovieDatabase.h
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/MovieDatabase.h
+
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/MovieDatabase.h
+cstdlib
+-
+string
+-
+fstream
+-
+iostream
+-
+iomanip
+-
+algorithm
+-
+vector
+-
+sstream
+-
+Movie.h
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/Movie.h
+
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/MovieLink.h
+cstdlib
+-
+string
+-
+fstream
+-
+iostream
+-
+iomanip
+-
+vector
+-
+sstream
+-
+
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/main.cpp
+cstdlib
+-
+string
+-
+iostream
+-
+vector
+-
+MovieDatabase.h
+C:/Users/andre/Desktop/100214063pgcw3 - Copy/MovieDatabase.h
+
